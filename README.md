@@ -1,6 +1,6 @@
 # [WELCOME](https://github.com/NihalV123)
 
-<p>I am Web developer skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.I have excellent design & coding skills, as well as an ability to convert requirements into exciting online https://www.one-tab.com/page/CnJcDDy8Qp2HIAHLV8K3Fw applications.</p>
+<p>I am Web developer skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.I have excellent design & coding skills, as well as an ability to convert requirements into exciting online https://www.one-tab.com/page/CnJcDDy8Qp2HIAHLV8K3Fw https://www.one-tab.com/page/phjiCtluQIqyjCQ1j1Di6gapplications.</p>
 
 
 ## My Stack
